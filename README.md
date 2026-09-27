@@ -1,7 +1,7 @@
 # A1: Extracting IPv4 Addresses from Noisy Text
 
 **Course:** Fall 2026  
-**Language:** C++ (C++17)  
+**Language:** C++  
 **Deliverables:** Source Code (`main.cpp`), AI Disclosure Log (`AI_DISCLOSURE.md`), Test Specification (`TEST_CASES.md`), and Test Input (`test_cases.txt`)
 
 ---
